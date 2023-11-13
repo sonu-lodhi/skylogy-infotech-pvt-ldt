@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/skylogy.com/static/css/main.e6c13ad2.css",
+    "main.js": "/skylogy.com/static/js/main.7b6eec99.js",
+    "static/js/787.4b672b9f.chunk.js": "/skylogy.com/static/js/787.4b672b9f.chunk.js",
+    "index.html": "/skylogy.com/index.html",
+    "main.e6c13ad2.css.map": "/skylogy.com/static/css/main.e6c13ad2.css.map",
+    "main.7b6eec99.js.map": "/skylogy.com/static/js/main.7b6eec99.js.map",
+    "787.4b672b9f.chunk.js.map": "/skylogy.com/static/js/787.4b672b9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7b6eec99.js"
+  ]
+}
